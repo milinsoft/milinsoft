@@ -6,13 +6,19 @@
 
 ## Programming Languages and Tools
 - Python
-- Odoo
-- Flask
+- Odoo, Flask
+- Git, GitHub
 - Relational Databases: PostgreSQL, MySQL, SQLite
 - Webscraping: BeautifulSoup
-- Git, GitHub
 - HTML5 + CSS3 (SCSS)
-
+- Jinja2
+- XML
+- JSON
+- Pyenv, venv, Poetry
+- Black[d]
+- Pycharm, WebStorm
+- MacOS, Windows, Linux
+- zsh, bash 
 
 ## Natural Languages:
 - English
