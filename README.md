@@ -10,7 +10,7 @@
 - Flask
 - Relational Databases: PostgreSQL, MySQL, SQLite
 - Webscraping: BeautifulSoup
-- Git, GitHub, Gitlab
+- Git, GitHub
 - HTML5 + CSS3 (SCSS)
 
 
