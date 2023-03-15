@@ -1,7 +1,7 @@
 # Hi there I'm Aleksander👋
 
-- 🔭 I’m currently working as Python/Odoo Backend Developer on <a href="https://youtu.be/y7TlnAv6cto">Odoo Enterprise</a> (v14-16)
-- 🤔 Fun fact: self-taught Software Developer</p>
+- 😎 I’m self-taught Software Developer
+- 🔭 Currently working on <a href="https://youtu.be/y7TlnAv6cto">Odoo Enterprise</a> (v14-16) 
 
 
 ## Programming Languages and Tools
