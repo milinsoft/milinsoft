@@ -24,3 +24,12 @@
 - English
 - Polish
 - Russian
+
+<details>
+ <summary><h3>👨‍💻Hyperskill Projects</summary>
+   <ul>
+     <li>
+      <a href="../../../Weather-App">RESTful Weather APP</a>
+     </li>
+    </ul>
+</details>
