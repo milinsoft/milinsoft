@@ -31,5 +31,8 @@
      <li>
       <a href="../../../Weather-App">RESTful Weather APP</a>
      </li>
+     <li>
+      <a href="../../../static-code-analyser-python">Static Code Analyser for Python files</a>
+     </li>
     </ul>
 </details>
