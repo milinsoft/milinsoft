@@ -35,5 +35,8 @@
      <li>
       <a href="../../../static-code-analyser-python">Static Code Analyser for Python files</a>
      </li>
+    <li>
+     <a href="../../../Tic-Tac-Toe-with-AI">Tic-Tac-Toe-with-AI</a>
+    </li>
     </ul>
 </details>
