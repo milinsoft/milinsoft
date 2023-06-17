@@ -5,8 +5,10 @@
 
 
 ## Programming Languages and Tools
-- Python
-- Odoo, Flask
+- Python, C (basics), JavaScript (basics)
+- Odoo,Flask
+- Odoo ORM, SQLAlchemy
+- Odoo.sh 
 - Git, GitHub
 - Relational Databases: PostgreSQL, MySQL, SQLite
 - Webscraping: BeautifulSoup
@@ -20,6 +22,7 @@
 - Black[d]
 - MacOS, Windows, Linux
 - zsh, bash 
+- Virtual Environments
 
 ## Natural Languages:
 - English
