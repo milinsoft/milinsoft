@@ -5,24 +5,49 @@
 
 
 ## Programming Languages and Tools
-- Python, C (basics), JavaScript (basics)
-- Odoo,Flask
-- Odoo ORM, SQLAlchemy
-- Odoo.sh 
-- Git, GitHub
-- Relational Databases: PostgreSQL, MySQL, SQLite
-- Webscraping: BeautifulSoup
+**Programming Languages:**
+- Python
+- C (basics)
+- JavaScript (basics)
+
+**Frameworks:**
+- Odoo
+- Flask
+
+**Relational Databases:**
+- PostgreSQL
+- MySQL
+- SQLite
+
+**Object-Relational Mapping libraries:**
+- Odoo ORM
+- SQLAlchemy
+
+**Version Control:**
+- Git
+- GitHub
+
+**Virtual Environments:**
+- Pyenv + virtualenv
+- venv
+- Poetry
+
+**Frontend tools:**
 - (X)HTML
-- CSS3
-- SCSS
+- CSS3/SCSS
+
+**Cloud infrastructure:**
+- Odoo.sh 
+
+**Miscelanious:**
 - Jinja2
 - XML
 - JSON
-- Pyenv, venv, Poetry
 - Black[d]
 - MacOS, Windows, Linux
 - zsh, bash 
-- Virtual Environments
+- BeautifulSoup (Webscraping)
+
 
 ## Natural Languages:
 - English
