@@ -1,6 +1,8 @@
 # Hi there I'm Aleksander👋
 
-- 😎 I’m self-taught Software Developer
+- 😎 Passionate developer with a thirst for knowledge and a love for problem-solving. 
+Proficient in Python, Odoo, and SQL, specializing in web development. 
+Committed to continuous broaden and deepen my expertise and, I thrive on exploring new technologies and digging deep into complex challenges.
 - 🔭 Currently working on <a href="https://youtu.be/y7TlnAv6cto">Odoo Enterprise</a> (v14-16) 
 - Speak English, Polish and Russian
 
