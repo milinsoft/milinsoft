@@ -2,7 +2,22 @@
 
 - 😎 I’m self-taught Software Developer
 - 🔭 Currently working on <a href="https://youtu.be/y7TlnAv6cto">Odoo Enterprise</a> (v14-16) 
+- Speak English, Polish and Russian
 
+<details>
+ <summary><h3>👨‍💻Demo Projects</summary>
+   <ul>
+     <li>
+      <a href="../../../Weather-App">RESTful Weather APP</a>
+     </li>
+     <li>
+      <a href="../../../static-code-analyser-python">Static Code Analyser for Python files</a>
+     </li>
+    <li>
+     <a href="../../../Tic-Tac-Toe-with-AI">Tic-Tac-Toe-with-AI</a>
+    </li>
+    </ul>
+</details>
 
 ## Programming Languages and Tools
 **Programming Languages:**
@@ -47,24 +62,3 @@
 - MacOS, Windows, Linux
 - zsh, bash 
 - BeautifulSoup (Webscraping)
-
-
-## Natural Languages:
-- English
-- Polish
-- Russian
-
-<details>
- <summary><h3>👨‍💻Hyperskill Projects</summary>
-   <ul>
-     <li>
-      <a href="../../../Weather-App">RESTful Weather APP</a>
-     </li>
-     <li>
-      <a href="../../../static-code-analyser-python">Static Code Analyser for Python files</a>
-     </li>
-    <li>
-     <a href="../../../Tic-Tac-Toe-with-AI">Tic-Tac-Toe-with-AI</a>
-    </li>
-    </ul>
-</details>
