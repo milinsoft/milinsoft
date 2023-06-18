@@ -65,3 +65,5 @@
 - MacOS, Windows, Linux
 - zsh, bash 
 - BeautifulSoup (Webscraping)
+- Selenium
+- Postman
