@@ -48,12 +48,12 @@ ON my TODO list: C and JavaScript.
 - Familiar with NoSQL technologies
 
 ## Tools & Technologies
-- Well-versed in Git and GitHub for version control.
-- Experienced with virtual environments: Pyenv + virtualenv, venv, Poetry.
-- Knowledgeable about (X)HTML and CSS3/SCSS for frontend.
-- Comfortable with cloud infrastructure: Odoo.sh.
-- Familiar with Docker, Jinja2, XML, JSON and GitHub actions.
-- Proficient in using Black[d] for code formatting.
+- Well-versed in **Git** and **GitHub** for version control.
+- Experienced with virtual environments: **Pyenv + virtualenv, venv, Poetry.**
+- Knowledgeable about **(X)HTML** and **CSS3/SCSS **for frontend.
+- Comfortable with cloud infrastructure: **Odoo.sh**.
+- Familiar with **Docker**, **Jinja2**, **XML**, **JSON** and **GitHub actions**.
+- Proficient in using **Black[d]** for code formatting.
 - Versatile across various operating systems: MacOS, Windows, Linux.
 - Skilled in using zsh and bash as command-line interfaces.
 - Competent in web scraping and using BeautifulSoup.
