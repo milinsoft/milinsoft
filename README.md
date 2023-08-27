@@ -20,9 +20,12 @@ I'm currently immersed in the world of <a href="https://youtu.be/y7TlnAv6cto">Od
 <details>
  <summary><h3>👨‍💻Featured Projects</summary>
   Here are a few projects that showcase my skills and interests:
-  - <a href="../../../Weather-App">RESTful Weather APP</a>
-  - <a href="../../../static-code-analyser-python">Static Code Analyser for Python files</a>
-  - <a href="../../../Tic-Tac-Toe-with-AI">Tic-Tac-Toe-with-AI</a>
+  <ul>
+   <li><a href="../../../Weather-App">RESTful Weather App</a></li>
+   <li><a href="../../../bank_app">Bank App</a></li>
+   <li><a href="../../../static-code-analyser-python">Static Code Analyzer for Python files</a></li>
+   <li><a href="../../../Tic-Tac-Toe-with-AI">Tic-Tac-Toe with AI</a></li>
+ </ul>
 </details>
   
 ## Skill Snapshot
