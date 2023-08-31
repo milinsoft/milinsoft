@@ -57,8 +57,3 @@ ON my TODO list: C and JavaScript.
 
 Feel free to get in touch if you want to collaborate, share insights, or just geek out about programming.
 I'm excited to explore new opportunities and keep pushing the boundaries of my skills and knowledge.
-
-
-
-
-
