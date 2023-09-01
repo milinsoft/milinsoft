@@ -27,12 +27,13 @@ I'm currently immersed in the world of <a href="https://youtu.be/y7TlnAv6cto">Od
    <li><a href="../../../Tic-Tac-Toe-with-AI">Tic-Tac-Toe with AI</a></li>
  </ul>
 </details>
-  
+
+<!--
 ## Skill Snapshot
 
 ## Programming Languages & Frameworks
 
-- Proficient in Python and Odoo Framework, with a focus on web development.
+- Proficient in Python and Odoo Framework, focusing on web development.
 - Working knowledge of Flask, Django and Selenium.
 ON my TODO list: C and JavaScript.
 
@@ -54,6 +55,7 @@ ON my TODO list: C and JavaScript.
 - Competent in web scraping and using BeautifulSoup.
 - Comfortable with Postman for API testing.
 ## Let's Connect!
+-->
 
 Feel free to get in touch if you want to collaborate, share insights, or just geek out about programming.
 I'm excited to explore new opportunities and keep pushing the boundaries of my skills and knowledge.
