@@ -1,7 +1,6 @@
 # Hi there I'm Aleksander👋
 
-I'm a Python and Odoo developer who's passionate about making things simpler and more efficient. 
-I specialize in creating custom software solutions that help businesses run smoothly and effectively. 
+I'm a Python and Odoo developer who's passionate about making software solutiions simpler and more efficient. 
 
 ## Here's what I do:
 
