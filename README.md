@@ -1,24 +1,24 @@
 # Hi there I'm Aleksander👋
 
-I'm a Python and Odoo developer who's passionate about making software solutions simpler and more efficient. 
+ I'm all about using Python and Odoo to make your business operations better.</br>
+ Whether you want to save time, reduce costs, or improve your workflows, I've got you covered.
 
 ## Here's what I do:
 
-* I design and build Odoo applications tailored to your needs.
-* I love solving problems, whether it's automating tasks, creating user-friendly interfaces, or streamlining processes.
-* I write clean, well-documented Python code that's easy to maintain.
-* I connect Odoo with other services to make your systems work seamlessly together.
-* I'm here to provide support and guidance whenever you need it.
-
-I'm all about using Python and Odoo to make your business operations better. Whether you want to save time, reduce costs, or improve your workflows, I've got you covered.
+* Design and build Odoo applications tailored to your needs.
+* Solve your problems (i.e. automation, user-friendly interfaces, or streamlining processes).
+* Write clean, tested, and well-documented Python code that's easy and affordable to maintain.
+* Connect Odoo with other services to make your systems work seamlessly together.
+* Provide support and guidance whenever you need it.
 
 
-🌐 Proficient in 🇺🇸English, 🇵🇱Polish, and 🇷🇺Russian.</br>
 
+
+🌐 Proficient in 🇺🇸 English, 🇵🇱 Polish, and 🇷🇺 Russian.
 
 ## Current Endeavors
 
-I'm currently immersed in the world of <a href="https://youtu.be/y7TlnAv6cto">Odoo Enterprise</a> (v14-16), working on exciting projects that challenge and inspire me.
+I'm currently immersed in the world of <a href="https://youtu.be/y7TlnAv6cto">Odoo Enterprise</a> (v14-17), working on exciting projects that challenge and inspire me.
 
 <details>
  <summary><h3>👨‍💻Featured Projects</summary>
