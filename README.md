@@ -1,6 +1,6 @@
 # Hi there I'm Aleksander👋
 
- I'm all about using Python and Odoo to make your business operations better.</br>
+ I'm all about using Python and Odoo to make your business operations better.\
  Whether you want to save time, reduce costs, or improve your workflows, I've got you covered.
 
 ## Here's what I do:
