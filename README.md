@@ -48,14 +48,14 @@ My focus is on achieving optimal performance while ensuring clean, test-covered,
 I'm currently immersed in the world of [Odoo Enterprise](https://youtu.be/y7TlnAv6cto) (v14-17), working on exciting projects that challenge and inspire me.
 
 
-<!-- COMMENTED OUT
  <summary><h3>👨‍💻 Featured Projects</summary>
   Here are a few projects that showcase my skills and interests:
   <ul>
+   <li><a href="../../../booking-fastapi">Hotel Booking API - FastAPI</a></li>
    <li><a href="../../../Weather-App">RESTful Weather App</a></li>
    <li><a href="../../../bank_app">Bank App</a></li>
    <li><a href="../../../static-code-analyser-python">Static Code Analyzer for Python files</a></li>
    <li><a href="../../../Tic-Tac-Toe-with-AI">Tic-Tac-Toe with AI</a></li>
  </ul>
- -->
+
 
