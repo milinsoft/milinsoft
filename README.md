@@ -1,6 +1,6 @@
 # Hi there, I'm Aleksander! 👋
 
-Highly skilled **Python Developer** with over **4 years** of hands-on experience.\
+Highly skilled **Python Developer** with over **5 years** of hands-on experience.\
 Currently focused on designing, developing, and integrating enterprise-level applications and automation for Odoo.\
 My focus is on achieving optimal performance while ensuring clean, test-covered, and reusable code.
 #### I speak: 🇺🇸 English 🇵🇱 Polish 🇷🇺 Russian
