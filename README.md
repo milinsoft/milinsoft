@@ -45,7 +45,7 @@ My focus is on achieving optimal performance while ensuring clean, test-covered,
 
 ### Current Endeavors
 
-I'm currently immersed in the world of [Odoo Enterprise](https://youtu.be/y7TlnAv6cto) (v14-17), working on exciting projects that challenge and inspire me.
+Currently focused on my Python Engineer expert role, building a proprietary data platform (including framework and libraries)
 
 
  <summary><h3>👨‍💻 Featured Projects</summary>
