@@ -1,8 +1,8 @@
 # Hi there, I'm Aleksander! 👋
 
 Highly skilled **Python Developer** with **multiple years** of hands-on experience.\
-Currently focused on designing, developing, and integrating enterprise-level applications and automation for Odoo.\
-My focus is on achieving optimal performance while ensuring clean, test-covered, and reusable code.
+Currently focused on my Python Engineer expert role, building a proprietary data platform (including framework and libraries) for the data engineers.
+My focus is on meeting business objectives, while achieving optimal performance, ensuring clean, test-covered, and reusable code.
 #### I speak: 🇺🇸 English 🇵🇱 Polish 🇷🇺 Russian
 
 ### Stack:
@@ -42,11 +42,6 @@ My focus is on achieving optimal performance while ensuring clean, test-covered,
 [![Linux (Ubuntu)](https://img.shields.io/badge/Linux%20(Ubuntu)-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
-
-### Current Endeavors
-
-Currently focused on my Python Engineer expert role, building a proprietary data platform (including framework and libraries)
-
 
  <summary><h3>👨‍💻 Featured Projects</summary>
   Here are a few projects that showcase my skills and interests:
